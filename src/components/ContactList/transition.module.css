@@ -1,0 +1,23 @@
+.enter {
+  opacity: 0;
+  margin-left: -13%;
+  transition: 250ms linear;
+}
+
+.enterActive {
+  opacity: 1;
+  margin-left: 0%;
+  transition: 250ms linear;
+}
+
+.exit {
+  opacity: 1;
+  margin-left: 0;
+  transition: 250ms linear;
+}
+
+.exitActive {
+  margin-left: -13%;
+  opacity: 0;
+  transition: 250ms linear;
+}

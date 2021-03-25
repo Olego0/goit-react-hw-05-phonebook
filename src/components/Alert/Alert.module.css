@@ -1,0 +1,26 @@
+.wrapper {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 15px;
+  width: 20%;
+  text-align: center;
+  right: -20%;
+  top: 2%;
+  font-size: 16px;
+  position: fixed;
+  font-weight: 500;
+  opacity: 0;
+}
+.activeWrapper {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 15px;
+  width: 20%;
+  text-align: center;
+  right: 2%;
+  top: 2%;
+  font-size: 16px;
+  position: fixed;
+  font-weight: 500;
+  opacity: 1;
+}

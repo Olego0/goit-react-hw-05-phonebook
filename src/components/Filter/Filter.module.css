@@ -1,0 +1,22 @@
+.wrapper {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 24.3%;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #3645ab;
+}
+.input {
+  width: 90%;
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid rgb(209, 209, 209);
+  font-size: 16px;
+}
+label {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 5px;
+  font-weight: 400;
+}
